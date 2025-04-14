@@ -1,5 +1,7 @@
+Machine Learning & Backend Development — Corn Disease Detection & Forecasting Web App
+
 **Project Description**  
-A web application that empowers farmers to diagnose corn leaf diseases from images, track local outbreaks, and forecast disease spread based on upcoming weather conditions.
+A web application with trained large dataset model using Tensorflow that empowers farmers to diagnose corn leaf diseases from images, track local outbreaks, and forecast disease spread based on upcoming weather conditions.
 
 ---
 
