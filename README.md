@@ -37,5 +37,5 @@ A web application with trained large dataset model using Tensorflow that empower
 
 - **Live Demo & Resources**  
   - **Web App:** https://teamshark.duckdns.org/  
-  - **Model Notebook:** Contact me at a.tamimdostyar@gmail.com
-  - **Video Walkthrough:** Contact me at a.tamimdostyar@gmail.com
+  - **Model Notebook:** Contact me at a.tamimdostyar@gmail.com | Private
+  - **Video Walkthrough:** Contact me at a.tamimdostyar@gmail.com | Private
