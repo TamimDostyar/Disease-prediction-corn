@@ -35,5 +35,5 @@ A web application that empowers farmers to diagnose corn leaf diseases from imag
 
 - **Live Demo & Resources**  
   - **Web App:** https://teamshark.duckdns.org/  
-  - **Model Notebook:** a.tamimdostyar@gmail.com
+  - **Model Notebook:** Contact me at a.tamimdostyar@gmail.com
   - **Video Walkthrough:** Contact me at a.tamimdostyar@gmail.com
